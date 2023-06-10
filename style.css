@@ -1,0 +1,7 @@
+.test_image_result{
+    background-color:gray;
+    font-size:20px;
+}
+.test_image_result h5,h4{
+    text-align:center;
+}
